@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: root
+Build-Jdk: 10.0.2
+Implementation-Title: websec
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: eu.beersafe
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/beersafe/
+Created-By: Maven Integration for Eclipse
+
